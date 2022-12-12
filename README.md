@@ -1,2 +1,2 @@
 # nasabah-app
-simple web-based app for nasaba information system.
+simple web-based app for nasabah information system.
